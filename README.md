@@ -1,5 +1,5 @@
-# Claculator
-My first HW from my Uncle :)
+# Calculator
+First HW from my Senior Engineer Uncle :)
 
 My first steps in Github,22/1/2021 today desperately my uncle asked for my calculator jsjsjs.
 
